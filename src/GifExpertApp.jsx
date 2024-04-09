@@ -9,7 +9,7 @@ const GifExpertApp = () => {
 
         if (categories.includes(value)) return;
 
-        setCategories([...categories, value]);
+        setCategories([value, ...categories]);
 
     }
 
