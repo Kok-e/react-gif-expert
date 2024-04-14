@@ -66,16 +66,16 @@ Durante el desarrollo de este proyecto, he aprendido varias lecciones y adquirid
     cd react-gif-expert-main
     ```
 
-3. **Instala las dependencias utilizando Yarn o npm:**
+3. **Instala las dependencias utilizando npm:**
 
     ```bash
-    yarn install/npm install
+    npm install
     ```
     
 4. **Arranca el proyecto:**
    
     ```bash
-    yarn dev/npm run dev
+    npm run dev
     ```
 
 
