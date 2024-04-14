@@ -1,7 +1,7 @@
 <h1 align="center"> Gif Expert App </h1>
 
 ```bash
-https://gif-expert-app-ip.netlify.app/
+(https://gifexpertkoke.netlify.app/)
 ```
 
 
@@ -57,25 +57,25 @@ Durante el desarrollo de este proyecto, he aprendido varias lecciones y adquirid
 1. **Clona este repositorio:**
 
     ```bash
-    git clone https://github.com/IvanParada/react-gif-expert.git
+    git clone https://github.com/Kok-e/react-gif-expert.git
     ```
 
 2. **Navega al directorio del proyecto:**
 
     ```bash
-    cd react-gif-expert
+    cd react-gif-expert-main
     ```
 
-3. **Instala las dependencias utilizando Yarn:**
+3. **Instala las dependencias utilizando Yarn o npm:**
 
     ```bash
-    yarn install
+    yarn install/npm install
     ```
     
-3. **Arranca el proyecto:**
+4. **Arranca el proyecto:**
    
     ```bash
-    yarn dev
+    yarn dev/npm run dev
     ```
 
 
